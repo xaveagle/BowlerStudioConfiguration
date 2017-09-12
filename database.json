@@ -8,6 +8,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "null:HIDBowlerDevice.groovy": [
+      null,
+      "HIDBowlerDevice.groovy"
+    ],
     "https://gist.github.com/c10875426fcd069ecbe1081a5cc2a2c5.git:HIDBowlerDevice.groovy": [
       "https://gist.github.com/c10875426fcd069ecbe1081a5cc2a2c5.git",
       "HIDBowlerDevice.groovy"
