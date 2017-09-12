@@ -7,16 +7,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "null:HIDBowlerDevice.groovy": [
-      null,
-      "HIDBowlerDevice.groovy"
-    ],
-    "https://gist.github.com/c10875426fcd069ecbe1081a5cc2a2c5.git:HIDBowlerDevice.groovy": [
-      "https://gist.github.com/c10875426fcd069ecbe1081a5cc2a2c5.git",
-      "HIDBowlerDevice.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
     "fontsize": 12.0,
