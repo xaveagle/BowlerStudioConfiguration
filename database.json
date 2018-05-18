@@ -11,6 +11,10 @@
     "https://github.com/keionbis/SmallKat.git:launch.groovy": [
       "https://github.com/keionbis/SmallKat.git",
       "launch.groovy"
+    ],
+    "https://github.com/keionbis/SmallKat.git:Bowler/MediumCad.groovy": [
+      "https://github.com/keionbis/SmallKat.git",
+      "Bowler/MediumCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
