@@ -7,20 +7,11 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://github.com/keionbis/SmallKat.git:launch.groovy": [
-      "https://github.com/keionbis/SmallKat.git",
-      "launch.groovy"
-    ],
-    "https://github.com/keionbis/SmallKat.git:Bowler/MediumCad.groovy": [
-      "https://github.com/keionbis/SmallKat.git",
-      "Bowler/MediumCad.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
-    "fontsize": 12.0,
-    "skinBranch": "0.25.3",
+    "fontsize": 20,
+    "skinBranch": "0.26.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
