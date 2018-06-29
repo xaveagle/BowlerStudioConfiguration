@@ -7,12 +7,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://gist.github.com/02838924cabc0ce735c2099701821958.git:TheCalledScript.groovy": [
-      "https://gist.github.com/02838924cabc0ce735c2099701821958.git",
-      "TheCalledScript.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
     "fontsize": 28.0,
