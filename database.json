@@ -8,23 +8,19 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/xaveagle/SpiderQuad.git:Bowler/DynamicWalkingSpiderQuad.groovy": [
-      "https://github.com/xaveagle/SpiderQuad.git",
-      "Bowler/DynamicWalkingSpiderQuad.groovy"
-    ],
-    "https://gist.github.com/e26c0d8ef7d5283ef44fb22441a603b8.git:LoadGameController.groovy": [
-      "https://gist.github.com/e26c0d8ef7d5283ef44fb22441a603b8.git",
-      "LoadGameController.groovy"
-    ],
-    "https://github.com/xaveagle/SpiderQuad.git:launch.groovy": [
-      "https://github.com/xaveagle/SpiderQuad.git",
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:launch.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "launch.groovy"
+    ],
+    "https://github.com/OperationSmallKat/SmallKat_V2.git:loadRobot.groovy": [
+      "https://github.com/OperationSmallKat/SmallKat_V2.git",
+      "loadRobot.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
-    "fontsize": 28.0,
-    "skinBranch": "0.27.1",
+    "fontsize": 16,
+    "skinBranch": "0.27.6",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
