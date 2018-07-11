@@ -11,15 +11,11 @@
     "https://github.com/OperationSmallKat/SmallKat_V2.git:launch.groovy": [
       "https://github.com/OperationSmallKat/SmallKat_V2.git",
       "launch.groovy"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:loadRobot.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "loadRobot.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
-    "fontsize": 16,
+    "fontsize": 16.0,
     "skinBranch": "0.27.6",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
