@@ -8,6 +8,10 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://gist.github.com/b85f105a01c2740ac7825fbf52257d22.git:DeviceServerExample.groovy": [
+      "https://gist.github.com/b85f105a01c2740ac7825fbf52257d22.git",
+      "DeviceServerExample.groovy"
+    ],
     "https://github.com/xaveagle/SpiderQuad.git:launch.groovy": [
       "https://github.com/xaveagle/SpiderQuad.git",
       "launch.groovy"
