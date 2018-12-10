@@ -8,9 +8,17 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/0664410134fb5dae5a2baeecc0b4a7b0.git:BNO055Visualizer.groovy": [
-      "https://gist.github.com/0664410134fb5dae5a2baeecc0b4a7b0.git",
-      "BNO055Visualizer.groovy"
+    "https://github.com/xaveagle/SpiderQuad.git:loadRobot.groovy": [
+      "https://github.com/xaveagle/SpiderQuad.git",
+      "loadRobot.groovy"
+    ],
+    "https://github.com/xaveagle/SpiderQuad.git:Bowler/SpiderQuad.xml": [
+      "https://github.com/xaveagle/SpiderQuad.git",
+      "Bowler/SpiderQuad.xml"
+    ],
+    "https://github.com/xaveagle/SpiderQuad.git:launch.groovy": [
+      "https://github.com/xaveagle/SpiderQuad.git",
+      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
