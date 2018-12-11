@@ -11,10 +11,6 @@
     "https://github.com/xaveagle/SpiderQuad.git:loadRobot.groovy": [
       "https://github.com/xaveagle/SpiderQuad.git",
       "loadRobot.groovy"
-    ],
-    "https://github.com/xaveagle/SpiderQuad.git:launch.groovy": [
-      "https://github.com/xaveagle/SpiderQuad.git",
-      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
