@@ -11,6 +11,10 @@
     "https://github.com/xaveagle/SpiderQuad.git:loadRobot.groovy": [
       "https://github.com/xaveagle/SpiderQuad.git",
       "loadRobot.groovy"
+    ],
+    "https://github.com/xaveagle/SpiderQuad.git:Bowler/DynamicWalkingSpiderQuad.groovy": [
+      "https://github.com/xaveagle/SpiderQuad.git",
+      "Bowler/DynamicWalkingSpiderQuad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
