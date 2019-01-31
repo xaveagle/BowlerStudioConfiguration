@@ -11,6 +11,10 @@
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:launchIKTest.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "launchIKTest.groovy"
+    ],
+    "https://gist.github.com/65d10523cb1e406f9ca6073c3f553806.git:MoveLimb.groovy": [
+      "https://gist.github.com/65d10523cb1e406f9ca6073c3f553806.git",
+      "MoveLimb.groovy"
     ]
   },
   "BowlerStudioConfigs": {
