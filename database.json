@@ -7,11 +7,20 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:launchIKTest.groovy": [
+      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
+      "launchIKTest.groovy"
+    ],
+    "https://gist.github.com/65d10523cb1e406f9ca6073c3f553806.git:MoveLimb.groovy": [
+      "https://gist.github.com/65d10523cb1e406f9ca6073c3f553806.git",
+      "MoveLimb.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
-    "fontsize": 36,
-    "skinBranch": "0.29.2",
+    "fontsize": 36.0,
+    "skinBranch": "0.27.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
