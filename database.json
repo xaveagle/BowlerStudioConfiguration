@@ -16,13 +16,9 @@
       "https://gist.github.com/65d10523cb1e406f9ca6073c3f553806.git",
       "MoveLimb.groovy"
     ],
-    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/xlKat.xml": [
+    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:metaIK.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
-      "Bowler/xlKat.xml"
-    ],
-    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/xlCad.groovy": [
-      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
-      "Bowler/xlCad.groovy"
+      "metaIK.groovy"
     ]
   },
   "BowlerStudioConfigs": {
