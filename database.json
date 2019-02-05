@@ -15,12 +15,16 @@
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/testIK.xml": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "Bowler/testIK.xml"
+    ],
+    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/xlCad.groovy": [
+      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
+      "Bowler/xlCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
     "fontsize": 36.0,
-    "skinBranch": "0.27.1",
+    "skinBranch": "0.29.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
