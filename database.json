@@ -12,10 +12,6 @@
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "Bowler/DynamicWalking.groovy"
     ],
-    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:intrnalIK.groovy": [
-      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
-      "intrnalIK.groovy"
-    ],
     "https://gist.github.com/65d10523cb1e406f9ca6073c3f553806.git:MoveLimb.groovy": [
       "https://gist.github.com/65d10523cb1e406f9ca6073c3f553806.git",
       "MoveLimb.groovy"
@@ -23,12 +19,16 @@
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:metaIK.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "metaIK.groovy"
+    ],
+    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:dhsolver2.groovy": [
+      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
+      "dhsolver2.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
     "fontsize": 36.0,
-    "skinBranch": "0.29.2",
+    "skinBranch": "0.27.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
   }
