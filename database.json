@@ -7,20 +7,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/DynamicWalking.groovy": [
-      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
-      "Bowler/DynamicWalking.groovy"
-    ],
-    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/simplecad.groovy": [
-      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
-      "Bowler/simplecad.groovy"
-    ],
-    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/xlKat.xml": [
-      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
-      "Bowler/xlKat.xml"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
     "fontsize": 36.0,
