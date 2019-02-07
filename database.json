@@ -12,6 +12,10 @@
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "Bowler/DynamicWalking.groovy"
     ],
+    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/simplecad.groovy": [
+      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
+      "Bowler/simplecad.groovy"
+    ],
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/xlKat.xml": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "Bowler/xlKat.xml"
