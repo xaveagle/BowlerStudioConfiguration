@@ -16,22 +16,14 @@
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "metaIK.groovy"
     ],
-    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:dhsolver3.groovy": [
+    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:launch.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
-      "dhsolver3.groovy"
-    ],
-    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:dhsolver.groovy": [
-      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
-      "dhsolver.groovy"
-    ],
-    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/xlKat.xml": [
-      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
-      "Bowler/xlKat.xml"
+      "launch.groovy"
     ]
   },
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
-    "fontsize": 36.0,
+    "fontsize": 16,
     "skinBranch": "0.29.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
