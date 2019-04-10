@@ -16,13 +16,9 @@
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "launch.groovy"
     ],
-    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/xlKat.xml": [
+    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:dhsolver.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
-      "Bowler/xlKat.xml"
-    ],
-    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:Bowler/xlCad.groovy": [
-      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
-      "Bowler/xlCad.groovy"
+      "dhsolver.groovy"
     ]
   },
   "BowlerStudioConfigs": {
