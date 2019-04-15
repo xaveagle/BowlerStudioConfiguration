@@ -15,6 +15,10 @@
     "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:launch.groovy": [
       "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
       "launch.groovy"
+    ],
+    "https://github.com/SmallKatMQP/smallkat-xl-bowler.git:dhsolver.groovy": [
+      "https://github.com/SmallKatMQP/smallkat-xl-bowler.git",
+      "dhsolver.groovy"
     ]
   },
   "BowlerStudioConfigs": {
