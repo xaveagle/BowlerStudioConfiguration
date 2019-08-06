@@ -18,10 +18,6 @@
       "https://github.com/xaveagle/blackcat.git",
       "walking.groovy"
     ],
-    "https://github.com/xaveagle/blackcat.git:MediumKat.xml": [
-      "https://github.com/xaveagle/blackcat.git",
-      "MediumKat.xml"
-    ],
     "https://github.com/xaveagle/blackcat.git:launch.groovy": [
       "https://github.com/xaveagle/blackcat.git",
       "launch.groovy"
