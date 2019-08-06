@@ -1,4 +1,10 @@
 {
+  "workspace": {
+    "https://github.com/xaveagle/blackcat.git": [
+      "xaveagle/blackcat",
+      "1565113906283"
+    ]
+  },
   "studio-open-web": {},
   "Saitek PLC Saitek P2600 Rumble Force Pad": {
     "jogKinz": "rz",
