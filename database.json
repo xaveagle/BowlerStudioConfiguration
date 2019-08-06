@@ -14,10 +14,6 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/xaveagle/blackcat.git:walking.groovy": [
-      "https://github.com/xaveagle/blackcat.git",
-      "walking.groovy"
-    ],
     "https://github.com/xaveagle/blackcat.git:launch.groovy": [
       "https://github.com/xaveagle/blackcat.git",
       "launch.groovy"
