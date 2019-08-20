@@ -21,12 +21,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://github.com/madhephaestus/whitekat.git:launch.groovy": [
-      "https://github.com/madhephaestus/whitekat.git",
-      "launch.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.22.1",
     "fontsize": 20.0,
