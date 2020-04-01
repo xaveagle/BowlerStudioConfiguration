@@ -28,7 +28,10 @@
     ]
   },
   "BowlerStudioConfigs": {
+    "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.22.1",
+    "tutorialBranch": "master",
+    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 20.0,
     "skinBranch": "1.5.6",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
