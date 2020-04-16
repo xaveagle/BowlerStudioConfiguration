@@ -29,10 +29,6 @@
     "https://github.com/OperationSmallKat/Luna.git:launch.groovy": [
       "https://github.com/OperationSmallKat/Luna.git",
       "launch.groovy"
-    ],
-    "https://github.com/xaveagle/blackcat.git:walking.groovy": [
-      "https://github.com/xaveagle/blackcat.git",
-      "walking.groovy"
     ]
   },
   "BowlerStudioConfigs": {
