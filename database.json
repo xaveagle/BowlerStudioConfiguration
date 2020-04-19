@@ -29,6 +29,10 @@
     "https://github.com/OperationSmallKat/Luna.git:launch.groovy": [
       "https://github.com/OperationSmallKat/Luna.git",
       "launch.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Luna.git:lunacad.groovy": [
+      "https://github.com/OperationSmallKat/Luna.git",
+      "lunacad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
