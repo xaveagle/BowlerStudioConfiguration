@@ -25,7 +25,16 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/OperationSmallKat/Luna.git:launch.groovy": [
+      "https://github.com/OperationSmallKat/Luna.git",
+      "launch.groovy"
+    ],
+    "https://gist.github.com/f523feff90fa298c18e56c7c7da987da.git:PoseMobileBase.groovy": [
+      "https://gist.github.com/f523feff90fa298c18e56c7c7da987da.git",
+      "PoseMobileBase.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.22.1",
