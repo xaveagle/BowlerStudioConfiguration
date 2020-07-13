@@ -41,10 +41,6 @@
     "https://github.com/OperationSmallKat/Luna.git:MediumKat.xml": [
       "https://github.com/OperationSmallKat/Luna.git",
       "MediumKat.xml"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git:lunacad.groovy": [
-      "https://github.com/OperationSmallKat/Luna.git",
-      "lunacad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
