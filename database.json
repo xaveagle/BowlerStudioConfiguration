@@ -8,6 +8,10 @@
       "GIST: PoseMobileBase.groovy",
       "1589928474220"
     ],
+    "https://github.com/OperationSmallKat/Luna.git": [
+      "OperationSmallKat/Luna",
+      "1594682506950"
+    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
       "1565973266674"
@@ -25,20 +29,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "https://github.com/OperationSmallKat/Luna.git:FrontRightCad.groovy": [
-      "https://github.com/OperationSmallKat/Luna.git",
-      "FrontRightCad.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git:launch.groovy": [
-      "https://github.com/OperationSmallKat/Luna.git",
-      "launch.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Luna.git:MediumKat.xml": [
-      "https://github.com/OperationSmallKat/Luna.git",
-      "MediumKat.xml"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.22.1",
