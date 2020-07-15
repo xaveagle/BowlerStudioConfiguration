@@ -26,9 +26,17 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
+    "https://github.com/OperationSmallKat/Luna.git:TailCad.groovy": [
+      "https://github.com/OperationSmallKat/Luna.git",
+      "TailCad.groovy"
+    ],
     "https://github.com/OperationSmallKat/Luna.git:launch.groovy": [
       "https://github.com/OperationSmallKat/Luna.git",
       "launch.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Luna.git:HeadCad.groovy": [
+      "https://github.com/OperationSmallKat/Luna.git",
+      "HeadCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
