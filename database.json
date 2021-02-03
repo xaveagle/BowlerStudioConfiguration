@@ -29,6 +29,18 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
+  "katapult": {
+    "gameControllerNames": [
+      "Play",
+      "Game",
+      "X-Box",
+      "Dragon"
+    ],
+    "linkDeviceName": "midnight",
+    "robotName": "Luna",
+    "robotGitFile": "MediumKat.xml",
+    "robotGit": "https://github.com/OperationSmallKat/Luna.git"
+  },
   "studio-open-git": {
     "https://github.com/OperationSmallKat/Luna.git:TailCad.groovy": [
       "https://github.com/OperationSmallKat/Luna.git",
@@ -53,5 +65,20 @@
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
     "currentVersion": "1.23.0"
+  },
+  "Controller (XBOX 360 For Windows)": {
+    "X Axis": "l-joy-left-right",
+    "X Rotation": "r-joy-left-right",
+    "Button 7": "start",
+    "Button 6": "select",
+    "Button 5": "r-trig-button",
+    "Y Axis": "l-joy-up-down",
+    "Button 4": "l-trig-button",
+    "Button 3": "y-mode",
+    "Button 2": "x-mode",
+    "Y Rotation": "r-joy-up-down",
+    "Button 1": "b-mode",
+    "Button 0": "a-mode",
+    "Z Axis": "analog-trig"
   }
 }
