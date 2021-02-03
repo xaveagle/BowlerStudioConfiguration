@@ -12,6 +12,10 @@
       "OperationSmallKat/Luna",
       "1612312067730"
     ],
+    "https://github.com/OperationSmallKat/Katapult.git": [
+      "OperationSmallKat/Katapult",
+      "1612312649676"
+    ],
     "https://github.com/OperationSmallKat/SmallKat_V2.git": [
       "OperationSmallKat/SmallKat_V2",
       "1565973266674"
@@ -48,6 +52,10 @@
     ],
     "https://github.com/OperationSmallKat/Luna.git:launch.groovy": [
       "https://github.com/OperationSmallKat/Luna.git",
+      "launch.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Katapult.git:launch.groovy": [
+      "https://github.com/OperationSmallKat/Katapult.git",
       "launch.groovy"
     ],
     "https://github.com/OperationSmallKat/Luna.git:HeadCad.groovy": [
