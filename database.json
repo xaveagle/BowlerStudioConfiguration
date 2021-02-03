@@ -54,10 +54,6 @@
       "https://github.com/OperationSmallKat/Luna.git",
       "launch.groovy"
     ],
-    "https://github.com/OperationSmallKat/Katapult.git:launch.groovy": [
-      "https://github.com/OperationSmallKat/Katapult.git",
-      "launch.groovy"
-    ],
     "https://github.com/OperationSmallKat/Luna.git:HeadCad.groovy": [
       "https://github.com/OperationSmallKat/Luna.git",
       "HeadCad.groovy"
