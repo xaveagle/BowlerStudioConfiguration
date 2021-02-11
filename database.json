@@ -65,10 +65,10 @@
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 20.0,
-    "skinBranch": "1.23.0",
+    "skinBranch": "1.23.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true,
-    "currentVersion": "1.23.0"
+    "currentVersion": "1.23.2"
   },
   "Controller (XBOX 360 For Windows)": {
     "X Axis": "l-joy-left-right",
