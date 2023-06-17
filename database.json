@@ -23,6 +23,10 @@
     "https://github.com/madhephaestus/whitekat.git": [
       "madhephaestus/whitekat",
       "1565973244893"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git": [
+      "OperationSmallKat/Marcos",
+      "1687035803339"
     ]
   },
   "studio-open-web": {},
@@ -53,10 +57,6 @@
     "https://github.com/OperationSmallKat/Luna.git:MediumKat.xml": [
       "https://github.com/OperationSmallKat/Luna.git",
       "MediumKat.xml"
-    ],
-    "https://github.com/OperationSmallKat/SmallKat_V2.git:Bowler/DynamicWalkingV2.groovy": [
-      "https://github.com/OperationSmallKat/SmallKat_V2.git",
-      "Bowler/DynamicWalkingV2.groovy"
     ],
     "https://github.com/OperationSmallKat/Luna.git:lunacad.groovy": [
       "https://github.com/OperationSmallKat/Luna.git",
