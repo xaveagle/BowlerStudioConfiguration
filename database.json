@@ -20,13 +20,13 @@
       "OperationSmallKat/SmallKat_V2",
       "1565973266674"
     ],
+    "https://github.com/xaveagle/MarcosCad_xaveagle.git": [
+      "https://github.com/xaveagle/MarcosCad_xaveagle.git",
+      "1687186108672"
+    ],
     "https://github.com/madhephaestus/whitekat.git": [
       "madhephaestus/whitekat",
       "1565973244893"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git": [
-      "OperationSmallKat/Marcos",
-      "1687035803339"
     ]
   },
   "studio-open-web": {},
@@ -53,13 +53,9 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
-      "https://github.com/OperationSmallKat/Marcos.git",
+    "https://github.com/xaveagle/MarcosCad_xaveagle.git:MarcosCad.groovy": [
+      "https://github.com/xaveagle/MarcosCad_xaveagle.git",
       "MarcosCad.groovy"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git:PrintBedLayout.groovy": [
-      "https://github.com/OperationSmallKat/Marcos.git",
-      "PrintBedLayout.groovy"
     ]
   },
   "BowlerStudioConfigs": {
