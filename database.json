@@ -30,7 +30,7 @@
     ],
     "https://github.com/OperationSmallKat/Marcos.git": [
       "OperationSmallKat/Marcos",
-      "1687186551178"
+      "1691454660224"
     ]
   },
   "studio-open-web": {},
@@ -56,7 +56,12 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosCad.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.22.1",
