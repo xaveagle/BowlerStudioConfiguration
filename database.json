@@ -27,10 +27,6 @@
     "https://github.com/madhephaestus/whitekat.git": [
       "madhephaestus/whitekat",
       "1565973244893"
-    ],
-    "https://github.com/OperationSmallKat/Marcos.git": [
-      "OperationSmallKat/Marcos",
-      "1691982449193"
     ]
   },
   "studio-open-web": {},
@@ -56,12 +52,7 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {
-    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
-      "https://github.com/OperationSmallKat/Marcos.git",
-      "MarcosCad.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.22.1",
