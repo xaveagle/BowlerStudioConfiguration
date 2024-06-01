@@ -56,12 +56,7 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {
-    "https://github.com/OperationSmallKat/Marcos.git:MarcosCad.groovy": [
-      "https://github.com/OperationSmallKat/Marcos.git",
-      "MarcosCad.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "0.22.1",
