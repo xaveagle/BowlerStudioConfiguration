@@ -68,6 +68,10 @@
     "https://github.com/OperationSmallKat/Marcos.git:PrintBedLayout.groovy": [
       "https://github.com/OperationSmallKat/Marcos.git",
       "PrintBedLayout.groovy"
+    ],
+    "https://github.com/OperationSmallKat/Marcos.git:MarcosKinematics.groovy": [
+      "https://github.com/OperationSmallKat/Marcos.git",
+      "MarcosKinematics.groovy"
     ]
   },
   "BowlerStudioConfigs": {
