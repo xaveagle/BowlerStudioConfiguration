@@ -53,9 +53,9 @@
       "Dragon"
     ],
     "linkDeviceName": "midnight",
-    "robotName": "Luna",
-    "robotGitFile": "MediumKat.xml",
-    "robotGit": "https://github.com/OperationSmallKat/Luna.git"
+    "robotName": "Marcos",
+    "robotGitFile": "Marcos.xml",
+    "robotGit": "https://github.com/OperationSmallKat/Marcos.git"
   },
   "MenueSettings": {
     "printCSG": true
